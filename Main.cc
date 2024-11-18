@@ -1,7 +1,6 @@
-#include <stdio.h>  //Libreria para hacer operaciones
-#include <stdlib.h>  //Libreria necesaria para generar numeros  al azar con rand() y srand
+#include <stdio.h> 
+#include <stdlib.h> 
 #include <time.h>
-
 #include <algorithm>
 #include <cstdlib>
 #include <ctime>
