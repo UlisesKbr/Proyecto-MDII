@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/ulise/Desktop/Proyecto-MDII",
       "program": "c:/Users/ulise/Desktop/Proyecto-MDII/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/marti/Desktop/Proyecto-MDII",
+      "program": "c:/Users/marti/Desktop/Proyecto-MDII/build/Debug/outDebug",
+>>>>>>> develop
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
