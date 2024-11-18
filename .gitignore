@@ -1,32 +1,34 @@
-# Prerequisites
-*.d
-
 # Compiled Object files
-*.slo
-*.lo
 *.o
 *.obj
-
-# Precompiled Headers
-*.gch
-*.pch
 
 # Compiled Dynamic libraries
 *.so
 *.dylib
 *.dll
 
-# Fortran module files
-*.mod
-*.smod
-
 # Compiled Static libraries
-*.lai
-*.la
-*.a
 *.lib
+*.a
 
 # Executables
 *.exe
 *.out
 *.app
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# IDE Specific files (Visual Studio Code, CLion, etc.)
+.vscode/
+.idea/
+*.swp
+.github
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
